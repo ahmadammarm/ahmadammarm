@@ -1,7 +1,5 @@
 ## Hi there, I'm Ahmad Ammar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<hr style="border: 1px solid black;">
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Visitors&countColor=%232ccce4" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
