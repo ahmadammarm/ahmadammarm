@@ -1,7 +1,7 @@
 ## Hi there, I'm Ahmad Ammar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Visitors&countColor=%232ccce4" /></a>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in:</h3>
 <p align="left">
 <a href="https://instagram.com/ahmadammrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadammrm" height="30" width="40" /></a>
 </p>
