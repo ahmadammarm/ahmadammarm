@@ -11,7 +11,7 @@
 </a>&nbsp;&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="#"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a> </p>
+<p align="left"> <a href="#"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp;&nbsp; <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>&nbsp; <a href="#"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a>&nbsp;&nbsp; </p>
 
 ### Here's my stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&show_icons=true&locale=en&theme=aura" alt="ahmadammarm" /></p>
