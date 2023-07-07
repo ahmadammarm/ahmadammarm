@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.instagram.com/ahmadammrm/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://discordapp.com/users/ammar8630">
    <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
