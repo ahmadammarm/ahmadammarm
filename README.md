@@ -14,7 +14,7 @@
 <br>
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </p>
-<br>
+
 <h3>📊  Here's my stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&show_icons=true&locale=en&theme=aura" alt="ahmadammarm" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&layout=compact&theme=aura&langs_count=12"/><br />
