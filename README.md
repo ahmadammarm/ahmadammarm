@@ -18,5 +18,5 @@
 
 <h3>📊  Here's my stats :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&show_icons=true&locale=en&theme=aura" alt="ahmadammarm" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&layout=compact&theme=aura&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br />
 
