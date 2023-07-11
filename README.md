@@ -10,6 +10,9 @@
 <a href="https://discordapp.com/users/ammar8630" target="_blank">
    <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+   <a href="https://www.linkedin.com/in/ahmad-ammar-98a87a254/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <br>
 <br>
 <h3 align="left">💻 Languages and Tools :</h3>
