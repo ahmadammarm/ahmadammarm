@@ -20,6 +20,6 @@
 &nbsp; <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></p>
 
 <h3>📊  Here's my stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&theme=aura&hide_border=false&include_all_commits=true&count_private=false" alt="ahmadammarm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="ahmadammarm" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br />
 
