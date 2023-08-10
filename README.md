@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="https://ahmadammarm.github.io/ammar" target="_blank"/>Ahmad Ammar</a>
+<h2>Hi there, I'm Ahmad Ammar Musyaffa
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h2>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Visitors&countColor=%232ccce4" /></a>
