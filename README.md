@@ -3,7 +3,7 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Visitors&countColor=%232ccce4" /></a>
 <br>
-<h3>About Me</h3>
+<h3>🖊️  About Me</h3>
 🎓 Student at State University of Malang<br>
 💻 Interested in full stack web development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs and NextJs
