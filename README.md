@@ -8,6 +8,6 @@
 💻 Interested in full stack web development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs and NextJs
 <h3>📊  Here's my stats in Github</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&show_icons=true&theme=aura" alt="ahmadammarm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&show_icons=true&theme=aura" alt="ahmadammarm" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br />
 
