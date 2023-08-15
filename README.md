@@ -1,13 +1,13 @@
-<h2>Hi there, I'm Ahmad Ammar Musyaffa
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h2>
+<h1>Hi there, I'm Ahmad Ammar Musyaffa
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Visitors&countColor=%232ccce4" /></a>
 <br>
-<h3>🖊️  About Me</h3>
+<h2>🖊️  About Me</h2>
 🎓 Student at State University of Malang<br>
 💻 Interested in full stack web development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs and NextJs
-<h3>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
+<h2>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"></h2>
 <a href="https://www.instagram.com/ahmadammrm/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <br>
 <br>
-<h3>📊  Here's my stats in Github</h3>
+<h2>📊  Here's my stats in Github</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
 </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br />
