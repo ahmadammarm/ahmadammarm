@@ -7,7 +7,7 @@
 🎓 Student at State University of Malang<br>
 💻 Interested in full stack web development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs and NextJs
-<h3>🌏 Connect with me in</h3>
+<h3>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <a href="https://www.instagram.com/ahmadammrm/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
