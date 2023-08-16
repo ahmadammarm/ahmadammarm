@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student;I'm+an+Indonesian;I'm+interested+in;Web+Development&center=false&width=500&height=50"></a>
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Viewers&countColor=%232ccce4" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Profile+Visitors&countColor=%232ccce4" /></a>
 <br>
 <h2>About Me  🖊️</h2>
 🎓 Student at State University of Malang<br>
