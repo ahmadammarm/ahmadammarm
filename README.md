@@ -6,7 +6,7 @@
 <br>
 <h2>About Me  🖊️</h2>
 🎓 Student at State University of Malang<br>
-💻 Interested in full stack web development<br>
+💻 Interested in web development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs and NextJs
 <h2>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"></h2>
 <a  href="https://www.instagram.com/ahmadammrm"><img src="https://img.shields.io/badge/@ahmadammrm-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ahmadammarmusyaffa"><img src="https://img.shields.io/badge/ahmadammarm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/ahmadammarm" target="blank"><img src="https://img.shields.io/badge/ahmadammarm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
