@@ -13,5 +13,5 @@
 
 <h2>Here's my stats in Github  📊</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&langs_count=20&theme=react&border_color=61dafb&layout=compact" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&langs_count=20&theme=react&border_color=61dafb&hide=hack&layout=compact" />
 
