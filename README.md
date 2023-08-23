@@ -12,7 +12,7 @@
 <a  href="https://www.instagram.com/ahmadammrm"><img src="https://img.shields.io/badge/@ahmadammrm-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ahmadammarmusyaffa"><img src="https://img.shields.io/badge/ahmadammarm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/ahmadammarm" target="blank"><img src="https://img.shields.io/badge/ahmadammarm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <h2>Here's my stats in Github  📊</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&langs_count=8&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=html,Tcl" />
+
 
