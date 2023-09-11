@@ -17,7 +17,7 @@
 <a  href="https://www.instagram.com/ahmadammrm"><img src="https://img.shields.io/badge/@ahmadammrm-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ahmadammarmusyaffa"><img src="https://img.shields.io/badge/ahmadammarm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/ahmadammarm" target="blank"><img src="https://img.shields.io/badge/ahmadammarm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-<h2>Here's my stats in Github  📊</h2>
+<h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&langs_count=20&theme=react&border_color=61dafb&hide=hack&layout=compact" />
 
