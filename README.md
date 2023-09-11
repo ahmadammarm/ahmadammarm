@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student;I'm+an+Indonesian;I'm+interested+in;Web+Development&center=false&width=500&height=50&"></a>
 
 <img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="400" align="right">
-
+<p><a href="https://arjuncvinod.github.io">My Portfolio↗️</a></p>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Profile+Visitors&countColor=%232ccce4" /></a>
 <br>
 <h2>About Me  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture>
