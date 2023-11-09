@@ -17,6 +17,7 @@
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&langs_count=20&theme=react&border_color=61dafb&hide=hack&layout=compact" />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadammarm&custom_title=Ammar's%20GitHub%20Activity%20Graph&theme=react" alt="Ammar's Github Activity Graph" width="100%">
 </div>
