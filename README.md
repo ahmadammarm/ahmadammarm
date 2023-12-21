@@ -22,3 +22,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadammarm&custom_title=Ammar's%20GitHub%20Activity%20Graph&theme=react" alt="Ammar's Github Activity Graph" width="100%">
 </div>
 
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahmadammarmusyaffa) 
+
+  
