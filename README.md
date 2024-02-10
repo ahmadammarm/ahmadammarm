@@ -10,10 +10,13 @@
 🎓 Student at State University of Malang<br>
 💻 Interested in Front End Web Development<br>
 🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs
+<br>
+<br>
+<img alt="coding" width="400" src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47er7xto7tll5nyp7ie9csspxghpzipnmatzl887di&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h2>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"></h2>
-<a  href="https://www.instagram.com/ahmadammrm"><img src="https://img.shields.io/badge/@ahmadammrm-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ahmadammarm"><img src="https://img.shields.io/badge/ahmadammarm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/ahmadammarm" target="blank"><img src="https://img.shields.io/badge/ahmadammarm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<a  href="https://www.instagram.com/ahmadammrm"><img src="https://img.shields.io/badge/@ahmadammrm-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/ahmadammarmusyaffa"><img src="https://img.shields.io/badge/ahmadammarm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/ahmadammarm" target="blank"><img src="https://img.shields.io/badge/ahmadammarm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadammarm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
