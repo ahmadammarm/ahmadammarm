@@ -9,7 +9,7 @@
 
 🎓 Student at State University of Malang<br>
 💻 Interested in Front End Web Development<br>
-🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of ReactJs
+🔭 Currently focused on learning with Javascript, and also exploring the exciting realms of React and NextJs
 <br>
 <br>
 <img alt="coding" width="400" src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47er7xto7tll5nyp7ie9csspxghpzipnmatzl887di&ep=v1_gifs_search&rid=giphy.gif&ct=g">
