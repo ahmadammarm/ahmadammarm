@@ -4,6 +4,9 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Profile+Visitors&countColor=%232ccce4" /></a>
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ammarmusyaffa&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h2>About Me  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture>
 </h2>
 
