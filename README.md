@@ -5,7 +5,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fahmadammarm%2Fahmadammarm&label=Profile+Visitors&countColor=%232ccce4" /></a>
 <br>
 
-<h3>Now Playing at Spotify 🎧</h3>
+<h3>Now Playing 🎧</h3>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ammarmusyaffa&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ammarmusyaffa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
  </a>
