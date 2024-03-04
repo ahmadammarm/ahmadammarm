@@ -29,8 +29,8 @@
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 
-![](https://github-readme-stats.vercel.app/api?username=ahmadammarm&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahmadammarm&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadammarm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" alt="languages graph"  />
 
 
 
@@ -39,4 +39,5 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmadammarmus) 
 
 
-  
+
+
