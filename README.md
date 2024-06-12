@@ -9,7 +9,7 @@
 </h2>
 
 🎓 Student at State University of Malang<br>
-💻 Interested in Front End Web Development<br>
+💻 Interested in Full Stack Web Development<br>
 🔭 Currently focused on learning and exploring the exciting realms of React, NextJs, and Laravel
 <br>
 <br>
