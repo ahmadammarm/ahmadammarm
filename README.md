@@ -2,8 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=ahmadammarm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning about NextJs and Typescript
-- 👯 I’m looking an opportunity to collaborate on web development project
+- 🌱 Currently learning about NextJs and Typescript
+- 👯 Looking an opportunity to collaborate on web development project
 
 
 ## 🌐 Socials:
