@@ -1,8 +1,5 @@
-## Hi there 👋 Im Ahmad Ammar Musyaffa
+<h1>Hi there 👋 Im Ahmad Ammar Musyaffa</h1>
 
-[![](https://visitcount.itsvg.in/api?id=ahmadammarm&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>Socials:</h3>
 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/musyaffa#1606) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadammrm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmadammarmusyaffa)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/musyaffa#1606) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadammrm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadammarmusyaffa)
