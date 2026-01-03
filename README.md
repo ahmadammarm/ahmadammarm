@@ -1,6 +1,9 @@
 <h1>Hi there 👋</h1>
 
-My name is Ahmad Ammar Musyaffa, and Im an Informatics Engineering student at State University of Malang with a passion for web development. To sharpen my skills and gain hands-on experience, I work as a freelance web developer to building custom web-based applications tailored to client needs. I primarily work with Next.js, Laravel, and NodeJs. I'm always eager to learn, improve, and stay updated with the latest advancements in the tech world. I'm excited to collaborate, connect, and explore new opportunities where I can grow and contribute to impactful projects.
+My name is Ahmad Ammar Musyaffa, and Im an Informatics Engineering student at Universitas Negeri Malang with a passion for web development. To sharpen my skills and gain hands-on experience, I work as a freelance web developer to building custom web-based applications tailored to client needs. I primarily work with Next.js, Laravel, and NodeJs. I'm always eager to learn, improve, and stay updated with the latest advancements in the tech world. I'm excited to collaborate, connect, and explore new opportunities where I can grow and contribute to impactful projects.
+
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=ahmadammarm)](https://github.com/ahmadammarm) [![committers.top badge](https://user-badge.committers.top/indonesia_private/ahmadammarm.svg)](https://user-badge.committers.top/indonesia_private/ahmadammarm)</a> 
+
 
 
 <p>Feel free to connect with me through the social media platforms listed below.</p>
