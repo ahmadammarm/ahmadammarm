@@ -97,10 +97,6 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmadammarm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
