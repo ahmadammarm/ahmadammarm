@@ -4,23 +4,17 @@ Software Engineer specializing in Educational Technology (EdTech) and reliable b
 
 [Website](https://ahmadammar.my.id) | [LinkedIn](https://linkedin.com/in/ahmadammarmusyaffa) | [Medium](https://medium.com/@ammarmusyaffa) | [Instagram](https://instagram.com/ahmadammrm) | [Discord](https://discord.gg/musyaffa#1606)
 
----
-
 ## About Me
 
 I am an Informatics Engineering graduate from Universitas Negeri Malang with a dedication to advancing digital education and high-integrity software systems. Through freelance engineering and independent software development, I architect and build production-ready web platforms, educational evaluation systems, and automation tools tailored to institutional standards.
 
 My technical foundation spans modern TypeScript frameworks (Next.js, React, Vue), resilient backend engineering (Laravel, Spring Boot, Go, FastAPI), and database systems (PostgreSQL, Supabase, pgvector, MySQL). I focus on clean architecture, assessment security, database concurrency guarantees, and pragmatic applications of AI to elevate learning experiences.
 
----
-
 ## Areas of Interest
 
 - **Educational Technology (EdTech)**: Assessment security, Computer-Based Testing (CBT), Learning Management Systems (LMS), curriculum alignment automation, and anti-cheating examination flows.
 - **Artificial Intelligence & Deep Learning**: Google Gemini API integrations, Large Language Models (LLMs), deep learning fundamentals, semantic embeddings, and Retrieval-Augmented Generation (RAG) for verifiable domain knowledge.
 - **Backend Architecture & Data Concurrency**: Database transactions (ACID compliance), row-level locking, pessimistic/optimistic concurrency control, idempotent operations, asynchronous task processing, and high-throughput REST APIs.
-
----
 
 ## Featured Projects
 
@@ -47,8 +41,6 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 - **Repository**: [ahmadammarm/tulisin-chatbot](https://github.com/ahmadammarm/tulisin-chatbot)
 - **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Microsoft Office Add-ins API
 - **Key Highlights**: Contextual text selection with natural language directives ("perbaiki jadi bahasa baku", "parafrase"), real-time preview, and native Microsoft Word Track Changes integration to keep authors in full control over accepted or rejected revisions.
-
----
 
 ## Tech Stack and Tooling
 
@@ -88,8 +80,6 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 ![Embeddings](https://img.shields.io/badge/Embeddings-4B32C3?style=flat&logo=databricks&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
 
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -99,8 +89,6 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadammarm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
 
 ## Connect
 
