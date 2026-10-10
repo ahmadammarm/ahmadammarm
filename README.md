@@ -2,7 +2,11 @@
 
 Software Engineer specializing in Educational Technology (EdTech) and reliable backend architectures. Informatics Engineering graduate from Universitas Negeri Malang with hands-on experience in building assessment engines, RAG-powered workflows, and scalable full-stack applications.
 
-[Website](https://ahmadammar.my.id) | [LinkedIn](https://linkedin.com/in/ahmadammarmusyaffa) | [Medium](https://medium.com/@ammarmusyaffa) | [Instagram](https://instagram.com/ahmadammrm) | [Discord](https://discord.gg/musyaffa#1606)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://ahmadammar.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadammarmusyaffa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ammarmusyaffa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmadammrm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/musyaffa#1606)
 
 ## About Me
 
@@ -92,8 +96,8 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 
 ## Connect
 
-- Portfolio: [ahmadammar.my.id](https://ahmadammar.my.id)
-- LinkedIn: [linkedin.com/in/ahmadammarmusyaffa](https://linkedin.com/in/ahmadammarmusyaffa)
-- Medium: [medium.com/@ammarmusyaffa](https://medium.com/@ammarmusyaffa)
-- Instagram: [@ahmadammrm](https://instagram.com/ahmadammrm)
-- Discord: [musyaffa#1606](https://discord.gg/musyaffa#1606)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://ahmadammar.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadammarmusyaffa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ammarmusyaffa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmadammrm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/musyaffa#1606)
