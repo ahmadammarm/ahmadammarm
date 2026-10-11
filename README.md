@@ -1,14 +1,4 @@
-# Ahmad Ammar Musyaffa
-
-Software Engineer specializing in Educational Technology (EdTech) and reliable backend architectures. Informatics Engineering graduate from Universitas Negeri Malang with hands-on experience in building assessment engines, RAG-powered workflows, and scalable full-stack applications.
-
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://ahmadammar.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadammarmusyaffa)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ammarmusyaffa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmadammrm)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/musyaffa#1606)
-
-## About Me
+# I'm Ahmad Ammar Musyaffa
 
 I am an Informatics Engineering graduate from Universitas Negeri Malang with a dedication to advancing digital education and high-integrity software systems. Through freelance engineering and independent software development, I architect and build production-ready web platforms, educational evaluation systems, and automation tools tailored to institutional standards.
 
@@ -19,32 +9,6 @@ My technical foundation spans modern TypeScript frameworks (Next.js, React, Vue)
 - **Educational Technology (EdTech)**: Assessment security, Computer-Based Testing (CBT), Learning Management Systems (LMS), curriculum alignment automation, and anti-cheating examination flows.
 - **Artificial Intelligence & Deep Learning**: Google Gemini API integrations, Large Language Models (LLMs), deep learning fundamentals, semantic embeddings, and Retrieval-Augmented Generation (RAG) for verifiable domain knowledge.
 - **Backend Architecture & Data Concurrency**: Database transactions (ACID compliance), row-level locking, pessimistic/optimistic concurrency control, idempotent operations, asynchronous task processing, and high-throughput REST APIs.
-
-## Featured Projects
-
-### 1. Fulusin — Periodic Financial Tracker
-Web-based financial tracking platform designed to help individuals monitor, manage, and analyze cash flow and financial obligations across customizable timeframes.
-- **Repository**: [ahmadammarm/fulusin](https://github.com/ahmadammarm/fulusin)
-- **Tech Stack**: Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL, NextAuth, React Query, Docker
-- **Key Highlights**: Multi-provider OAuth authentication, currency localization with automated symbol adjustments, category budgeting, and monthly/yearly analytical reporting.
-
-### 2. Naiju (ujian-cbt) — Integrity-Driven CBT Assessment Platform
-An industrial Computer Based Test (CBT) and digital assessment platform built for schools and universities, engineered with strict data integrity and anti-cheating protections.
-- **Repository**: [ahmadammarm/ujian-cbt](https://github.com/ahmadammarm/ujian-cbt)
-- **Tech Stack**: Laravel 11, Inertia.js v3, Vue 3, Tailwind CSS, Spatie Laravel Permission, MySQL
-- **Key Highlights**: Server-side answer key obfuscation (preventing browser DevTools inspection), real-time answer persistence, database transactions with row-level integrity during assessment submission, role-isolated workspaces (Naiju Studio for teachers and Naiju Exam for students), and dual-theme industrial UI.
-
-### 3. SARPEBE — Curriculum-Aligned Lesson Plan Automation System
-Educational automation platform that generates curriculum-compliant lesson plans for Indonesian educators using Retrieval-Augmented Generation (RAG) powered by Google Gemini.
-- **Repository**: [ahmadammarm/sarpebe](https://github.com/ahmadammarm/sarpebe)
-- **Tech Stack**: Next.js 16, React 19, TypeScript, FastAPI, Python 3.11, Google Gemini API, Supabase (pgvector), Celery, Redis
-- **Key Highlights**: Zero-hallucination lesson plans grounded strictly in official curriculum documents (CP, ATP, Buku Guru), asynchronous background job processing via Celery, prompt/completion token cost observability, and semantic search via pgvector.
-
-### 4. Tulisin — Academic Writing Assistant for Microsoft Word
-An AI-powered writing companion built as a Microsoft Word add-in with an interactive chat panel to assist Indonesian university students and scientific authors directly within their documents.
-- **Repository**: [ahmadammarm/tulisin-chatbot](https://github.com/ahmadammarm/tulisin-chatbot)
-- **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Microsoft Office Add-ins API
-- **Key Highlights**: Contextual text selection with natural language directives ("perbaiki jadi bahasa baku", "parafrase"), real-time preview, and native Microsoft Word Track Changes integration to keep authors in full control over accepted or rejected revisions.
 
 ## Tech Stack and Tooling
 
@@ -83,6 +47,32 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4B32C3?style=flat&logo=databricks&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+
+## Featured Projects
+
+### 1. Fulusin — Periodic Financial Tracker
+Web-based financial tracking platform designed to help individuals monitor, manage, and analyze cash flow and financial obligations across customizable timeframes.
+- **Repository**: [ahmadammarm/fulusin](https://github.com/ahmadammarm/fulusin)
+- **Tech Stack**: Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL, NextAuth, React Query, Docker
+- **Key Highlights**: Multi-provider OAuth authentication, currency localization with automated symbol adjustments, category budgeting, and monthly/yearly analytical reporting.
+
+### 2. Naiju (ujian-cbt) — Integrity-Driven CBT Assessment Platform
+An industrial Computer Based Test (CBT) and digital assessment platform built for schools and universities, engineered with strict data integrity and anti-cheating protections.
+- **Repository**: [ahmadammarm/ujian-cbt](https://github.com/ahmadammarm/ujian-cbt)
+- **Tech Stack**: Laravel 11, Inertia.js v3, Vue 3, Tailwind CSS, Spatie Laravel Permission, MySQL
+- **Key Highlights**: Server-side answer key obfuscation (preventing browser DevTools inspection), real-time answer persistence, database transactions with row-level integrity during assessment submission, role-isolated workspaces (Naiju Studio for teachers and Naiju Exam for students), and dual-theme industrial UI.
+
+### 3. SARPEBE — Curriculum-Aligned Lesson Plan Automation System
+Educational automation platform that generates curriculum-compliant lesson plans for Indonesian educators using Retrieval-Augmented Generation (RAG) powered by Google Gemini.
+- **Repository**: [ahmadammarm/sarpebe](https://github.com/ahmadammarm/sarpebe)
+- **Tech Stack**: Next.js 16, React 19, TypeScript, FastAPI, Python 3.11, Google Gemini API, Supabase (pgvector), Celery, Redis
+- **Key Highlights**: Zero-hallucination lesson plans grounded strictly in official curriculum documents (CP, ATP, Buku Guru), asynchronous background job processing via Celery, prompt/completion token cost observability, and semantic search via pgvector.
+
+### 4. Tulisin — Academic Writing Assistant for Microsoft Word
+An AI-powered writing companion built as a Microsoft Word add-in with an interactive chat panel to assist Indonesian university students and scientific authors directly within their documents.
+- **Repository**: [ahmadammarm/tulisin-chatbot](https://github.com/ahmadammarm/tulisin-chatbot)
+- **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Microsoft Office Add-ins API
+- **Key Highlights**: Contextual text selection with natural language directives ("perbaiki jadi bahasa baku", "parafrase"), real-time preview, and native Microsoft Word Track Changes integration to keep authors in full control over accepted or rejected revisions.
 
 ## GitHub Analytics
 
