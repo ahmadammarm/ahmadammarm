@@ -1,4 +1,4 @@
-# I'm Ahmad Ammar Musyaffa
+# Hi, I'm Ahmad Ammar Musyaffa
 
 I am an Informatics Engineering graduate from Universitas Negeri Malang with a dedication to advancing digital education and high-integrity software systems. Through freelance engineering and independent software development, I architect and build production-ready web platforms, educational evaluation systems, and automation tools tailored to institutional standards.
 
