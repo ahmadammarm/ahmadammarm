@@ -62,13 +62,7 @@ An industrial Computer Based Test (CBT) and digital assessment platform built fo
 - **Tech Stack**: Laravel 11, Inertia.js v3, Vue 3, Tailwind CSS, Spatie Laravel Permission, MySQL
 - **Key Highlights**: Server-side answer key obfuscation (preventing browser DevTools inspection), real-time answer persistence, database transactions with row-level integrity during assessment submission, role-isolated workspaces (Naiju Studio for teachers and Naiju Exam for students), and dual-theme industrial UI.
 
-### 3. SARPEBE — Curriculum-Aligned Lesson Plan Automation System
-Educational automation platform that generates curriculum-compliant lesson plans for Indonesian educators using Retrieval-Augmented Generation (RAG) powered by Google Gemini.
-- **Repository**: [ahmadammarm/sarpebe](https://github.com/ahmadammarm/sarpebe)
-- **Tech Stack**: Next.js 16, React 19, TypeScript, FastAPI, Python 3.11, Google Gemini API, Supabase (pgvector), Celery, Redis
-- **Key Highlights**: Zero-hallucination lesson plans grounded strictly in official curriculum documents (CP, ATP, Buku Guru), asynchronous background job processing via Celery, prompt/completion token cost observability, and semantic search via pgvector.
-
-### 4. Tulisin — Academic Writing Assistant for Microsoft Word
+### 3. Tulisin — Academic Writing Assistant for Microsoft Word
 An AI-powered writing companion built as a Microsoft Word add-in with an interactive chat panel to assist Indonesian university students and scientific authors directly within their documents.
 - **Repository**: [ahmadammarm/tulisin-chatbot](https://github.com/ahmadammarm/tulisin-chatbot)
 - **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Microsoft Office Add-ins API
