@@ -68,6 +68,12 @@ An AI-powered writing companion built as a Microsoft Word add-in with an interac
 - **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Microsoft Office Add-ins API
 - **Key Highlights**: Contextual text selection with natural language directives ("perbaiki jadi bahasa baku", "parafrase"), real-time preview, and native Microsoft Word Track Changes integration to keep authors in full control over accepted or rejected revisions.
 
+### 4. SARPEBE — Curriculum-Grounded Lesson Plan Generator
+An open-source assistant that helps Indonesian teachers draft a complete Modul Ajar (Kurikulum Merdeka) from official curriculum documents (CP, ATP, Buku Guru), with every learning objective traceable to its source page.
+- **Repository**: [ahmadammarm/sarpebe](https://github.com/ahmadammarm/sarpebe)
+- **Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS, FastAPI, SQLAlchemy (async), PostgreSQL with pgvector, Celery, Redis, Google Gemini
+- **Key Highlights**: Hybrid retrieval (vector plus Indonesian full-text search, rank fusion, relevance floor, rerank), schema-validated structured generation with server-side checks and server-built citations, a refusal when the documents do not cover the topic, OCR for scanned PDFs, live job progress over SSE, PDF and Word export, and a per-teacher daily generation limit.
+
 ## GitHub Analytics
 
 <p align="center">
