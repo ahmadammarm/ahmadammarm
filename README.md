@@ -56,11 +56,11 @@ Web-based financial tracking platform designed to help individuals monitor, mana
 - **Tech Stack**: Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL, NextAuth, React Query, Docker
 - **Key Highlights**: Multi-provider OAuth authentication, currency localization with automated symbol adjustments, category budgeting, and monthly/yearly analytical reporting.
 
-### 2. Naiju (ujian-cbt) — Integrity-Driven CBT Assessment Platform
-An industrial Computer Based Test (CBT) and digital assessment platform built for schools and universities, engineered with strict data integrity and anti-cheating protections.
-- **Repository**: [ahmadammarm/ujian-cbt](https://github.com/ahmadammarm/ujian-cbt)
-- **Tech Stack**: Laravel 11, Inertia.js v3, Vue 3, Tailwind CSS, Spatie Laravel Permission, MySQL
-- **Key Highlights**: Server-side answer key obfuscation (preventing browser DevTools inspection), real-time answer persistence, database transactions with row-level integrity during assessment submission, role-isolated workspaces (Naiju Studio for teachers and Naiju Exam for students), and dual-theme industrial UI.
+### 2. Amami — Mosque Management System
+Amami (Aplikasi Manajemen Masjid) gives a mosque committee one auditable place to run finances, zakat, qurban, the congregation registry, assets, and events, plus a public mosque profile page with donation details for the congregation.
+- **Repository**: [ahmadammarm/amami](https://github.com/ahmadammarm/amami)
+- **Tech Stack**: Go, Gin, GORM, PostgreSQL, Vue 3, TypeScript, Vite, Tailwind CSS 4
+- **Key Highlights**: Append-only cash ledger where mistakes are corrected by linked reversal entries instead of edits, zakat intake and distribution that posts cash to funds automatically, a needs survey that scores mustahik from 0 to 100 to prioritise zakat, qurban quotas and animal tracking, asset lending, and role-based access (treasurer, takmir, secretary, admin) enforced on both the API and the UI.
 
 ### 3. Tulisin — Academic Writing Assistant for Microsoft Word
 An AI-powered writing companion built as a Microsoft Word add-in with an interactive chat panel to assist Indonesian university students and scientific authors directly within their documents.
