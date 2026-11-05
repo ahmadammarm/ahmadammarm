@@ -56,11 +56,12 @@ Web-based financial tracking platform designed to help individuals monitor, mana
 - **Tech Stack**: Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL, NextAuth, React Query, Docker
 - **Key Highlights**: Multi-provider OAuth authentication, currency localization with automated symbol adjustments, category budgeting, and monthly/yearly analytical reporting.
 
-### 2. Amami — Mosque Management System
-Amami (Aplikasi Manajemen Masjid) gives a mosque committee one auditable place to run finances, zakat, qurban, the congregation registry, assets, and events, plus a public mosque profile page with donation details for the congregation.
-- **Repository**: [ahmadammarm/amami](https://github.com/ahmadammarm/amami)
-- **Tech Stack**: Go, Gin, GORM, PostgreSQL, Vue 3, TypeScript, Vite, Tailwind CSS 4
-- **Key Highlights**: Append-only cash ledger where mistakes are corrected by linked reversal entries instead of edits, zakat intake and distribution that posts cash to funds automatically, a needs survey that scores mustahik from 0 to 100 to prioritise zakat, qurban quotas and animal tracking, asset lending, and role-based access (treasurer, takmir, secretary, admin) enforced on both the API and the UI.
+### 2. Musyskills — AI Agent Skills for Everyday Dev Workflows
+Musyskills (Must be Yours Skills) is an open-source collection of AI agent skills for code review, drafting pull requests, committing safely, and cutting releases. Each skill is a single `SKILL.md` file that teaches a coding agent to follow the same steps and safety checks every time, across Claude Code, Codex, Cursor, and Antigravity.
+- **Repository**: [ahmadammarm/musyskills](https://github.com/ahmadammarm/musyskills)
+- **Website**: [ahmadammarm.github.io/musyskills](https://ahmadammarm.github.io/musyskills)
+- **Tech Stack**: Astro, TypeScript, Tailwind CSS, Node.js, npm
+- **Key Highlights**: Eight skills covering planning, code understanding, review, and shipping; an npm CLI (`npx musyskills add`) that detects which agents a project uses and installs into each one, per project or globally, without overwriting edited skills; a Claude Code plugin marketplace; and a website generated from the same `SKILL.md` sources, with a validator that checks every skill's format.
 
 ### 3. Tulisin — Academic Writing Assistant for Microsoft Word
 An AI-powered writing companion built as a Microsoft Word add-in with an interactive chat panel to assist Indonesian university students and scientific authors directly within their documents.
